@@ -32,5 +32,5 @@
 </div>div>
 
 <div align="right">
-  <img src="[https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png](https://t3.ftcdn.net/jpg/07/09/18/44/360_F_709184450_VsekS1aI5Iw9Ut3OxJgnnUZf3scdY20s.jpg)" alt="Explore" width="300"/>
+  <img src="https://newsinhealth.nih.gov/sites/newsinhealth/files/2015/August/illustration-hiker-watching-sunset-mountain_0.jpg" alt="Explore" width="200"/>
 </div>
