@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Nandi</h1>
 <h3 align="center">I believe that technology can change the world. My goal is to use my coding skills to develop solutions that improve efficiency and solve real-world problems. I'm always excited to learn, create, and contribute.</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Fillustrations%2F106905%2Fweb-developer&psig=AOvVaw36X4gt9D-EfSc0_VclnkXE&ust=1737129555113000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCUj47O-ooDFQAAAAAdAAAAABAE"/>
+<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Fillustrations%2F106905%2Fweb-developer&psig=AOvVaw36X4gt9D-EfSc0_VclnkXE&ust=1737129555113000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCUj47O-ooDFQAAAAAdAAAAABAE](https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png)"/>
 - 🔭 I’m currently working on **building a data warehouse for solar energy business operations at Reliance.**
 
 - 🌱 I’m currently learning **PySpark, Azure Synapse, Data Warehousing...**
