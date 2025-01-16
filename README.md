@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Nandi</h1>
 <h3 align="center">I believe that technology can change the world. My goal is to use my coding skills to develop solutions that improve efficiency and solve real-world problems. I'm always excited to learn, create, and contribute.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmo2018&label=Profile%20views&color=0e75b6&style=flat" alt="tanmo2018" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanmo2018" alt="tanmo2018" /></a> </p>
-
-- 🔭 I’m currently working on **Data Warehousing**
+- 🔭 I’m currently working on **building a data warehouse for solar energy business operations at Reliance.**
 
 - 🌱 I’m currently learning **PySpark, Azure Synapse, Data Warehousing...**
 
