@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmo2018&show_icons=true&locale=en&layout=compact" alt="tanmo2018" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmo2018&show_icons=true&locale=en" alt="tanmo2018" /></p>
+
