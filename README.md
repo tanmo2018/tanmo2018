@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Nandi</h1>
 <h3 align="center">I believe that technology can change the world. My goal is to use my coding skills to develop solutions that improve efficiency and solve real-world problems. I'm always excited to learn, create, and contribute.</h3>
 
-<img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" alt="Developer" width="300"/>
+<div align="center">
+  <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" alt="Developer" width="300"/>
+</div>
 
 
 - 🔭 I’m currently working on **building a data warehouse for solar energy business operations at Reliance.**
