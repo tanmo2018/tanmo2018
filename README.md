@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Nandi</h1>
 <h3 align="center">I am an AI Engineer specializing in building scalable Generative AI systems, stateful multi-agent workflows, and high-performance data pipelines. My goal is to bridge the gap between complex enterprise data and cutting-edge LLM applications.</h3>
 
-<div align="center">
-  <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" alt="Developer" width="300"/>
-</div>
 
 - 🔭 I’m currently working on **architecting production-grade GenAI engagement layers and intelligent Text-to-SQL pipelines at ICICI Bank.**
 - 🚀 Recent Project: **Sovereign Wealth Agent** — A stateful multi-agent system built with LangGraph, Groq, and MCP to automate Indian capital allocation and post-Budget 2024 tax optimization.
