@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ntanmoy3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1p1jvVye49XW5QvoYhiz2Z01kQ7z0s3Kz/view?usp=sharing](https://drive.google.com/file/d/1p1jvVye49XW5QvoYhiz2Z01kQ7z0s3Kz/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1M-SHYOWNpJxvZkd2y0TjgzrNiF94I2Un/view?usp=sharing
 
 - ⚡ Fun fact **I’ve probably typed enough code to circle the earth by now (just kidding… or am I?).**
 
