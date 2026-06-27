@@ -1,14 +1,26 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Nandi</h1>
-<h3 align="center">I believe that technology can change the world. My goal is to use my coding skills to develop solutions that improve efficiency and solve real-world problems. I'm always excited to learn, create, and contribute.</h3>
+<h3 align="center">I am an AI Engineer specializing in building scalable Generative AI systems, stateful multi-agent workflows, and high-performance data pipelines. My goal is to bridge the gap between complex enterprise data and cutting-edge LLM applications.</h3>
 
 <div align="center">
   <img src="https://static-00.iconduck.com/assets.00/web-developer-illustration-2005x2048-fal2biag.png" alt="Developer" width="300"/>
 </div>
 
+- 🔭 I’m currently working on **architecting production-grade GenAI engagement layers and intelligent Text-to-SQL pipelines at ICICI Bank.**
+- 🚀 Recent Project: **Sovereign Wealth Agent** — A stateful multi-agent system built with LangGraph, Groq, and MCP to automate Indian capital allocation and post-Budget 2024 tax optimization.
+- 🌱 I’m currently diving deeper into **Model Context Protocol (MCP), advanced multi-agent orchestration, and LLM guardrails/governance.**
+- 🏆 **LeetCode Knight (Max Rating: 1943)** | Solved 550+ algorithmic challenges.
 
-- 🔭 I’m currently working on **building a data warehouse for solar energy business operations at Reliance.**
+---
 
-- 🌱 I’m currently learning **PySpark, Azure Synapse, Data Warehousing...**
+### 🛠️ Tech Stack & Toolkit
+
+- **AI & Machine Learning:** Generative AI (LLMs), LangGraph, LangChain, Model Context Protocol (MCP), RAG Architectures, Prompt Engineering, NLP
+- **Languages:** Python, C++ (DSA/CP), SQL, JavaScript (MERN Stack)
+- **Data & Cloud Platforms:** Databricks, MLflow, Azure Synapse, VerticaDB, SQL Server
+- **Databases & Vector Stores:** MongoDB, MySQL, FAISS, ChromaDB
+- **Tools & Infra:** Git/GitHub, Docker, REST APIs, Flask
+
+---
 
 - 📫 How to reach me **ntanmoy3@gmail.com**
 
